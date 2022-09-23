@@ -38,5 +38,3 @@ This app was created using the folowing materials:
 ## Contributors
 
 -[Donnie](https://github.com/Atlas075)
-
-## License
