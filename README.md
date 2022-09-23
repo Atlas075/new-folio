@@ -18,6 +18,8 @@ This Portfilio was developed to showcase my skills in REact:
 
 ## Screenshots
 
+![image](https://user-images.githubusercontent.com/101908537/191879648-9b874b1d-fb1b-4568-8f3c-a9418027183f.png)
+
 
 ## Links
 
