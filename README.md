@@ -23,8 +23,8 @@ This Portfilio was developed to showcase my skills in REact:
 
 ## Links
 
-[GitHub](https://github.com/FredElick/Retro-Games)
-[Deployed App]()
+[GitHub](https://github.com/Atlas075/new-folio)
+[Deployed App](https://atlas075.github.io/new-folio/)
 
 ## Tech
 
