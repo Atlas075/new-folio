@@ -101,7 +101,7 @@ function Work(props) {
          <h3>CartrdgeStop</h3>
         </section>
         <section>
-        <a href="https://github.com/FredElick/Retro-Games">GitHib</a>
+        <a href="https://rocky-hollows-57857.herokuapp.com/">GitHib</a>
         <a href="">Deployed Site</a>
         </section>
       </div>
